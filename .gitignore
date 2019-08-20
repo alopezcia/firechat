@@ -45,5 +45,5 @@ testem.log
 .DS_Store
 Thumbs.db
 
-# aqui está la configuración del Firestone, para que Github no de el coñazo!
-/environments
+# Configuración de Firebase
+/src/environments/config.tasks
